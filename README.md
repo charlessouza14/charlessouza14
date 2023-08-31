@@ -28,8 +28,4 @@ Você pode me encontrar aqui também 👇
 <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 
-## Work In Progress 👇
-
-![Snake_animation](https://github.com/charlessouza14/charlessouza14/blob/output/github-contribution-grid-snake.svg)
-
 
