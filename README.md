@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Charles Souza  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width= 35>
 
-- Tenho 27 anos e sempre gostei de tecnologia. Estou buscando minha primeira oportunidade como desenvolvedor .NET. Atualmente tenho estudado os pilares de orientação a objeto, mas também tenho me aventurado no desenvolvimento de uma API, criando pequenos CRUD e já venho utilizando o Entity Framework para acesso a banco de dados.
+- Tenho 28 anos e sempre gostei de tecnologia. Estou buscando minha primeira oportunidade como desenvolvedor .NET. Atualmente tenho estudado os pilares de orientação a objeto, mas também tenho me aventurado no desenvolvimento de uma API, criando pequenos CRUD e já venho utilizando o Entity Framework para acesso a banco de dados.
 
  <div>
    <div align="center"><br>
