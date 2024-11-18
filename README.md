@@ -1,6 +1,6 @@
 ## Olá, bem-vindo(a) ao meu perfil do Github <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=35>
 
-• Meu nome é Charles Souza e sou um desenvolvedor .NET, do RJ, Brasil 
+• Meu nome é Charles Souza e sou desenvolvedor .NET, do RJ, Brasil 
 <img src="https://cdn.icon-icons.com/icons2/2087/PNG/512/brazil_icon_127818.png" alt="Bandeira do Brasil" style="width: 1em; height: 1em; vertical-align: text-bottom; margin-left: 5px;">
 
 
